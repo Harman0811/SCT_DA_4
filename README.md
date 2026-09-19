@@ -68,3 +68,17 @@ The dataset contained **5 campaign records with missing Marketing_channel values
 - Microsoft Excel
 - Microsoft Word
 - GitHub
+
+## Visualizations
+
+### ROI by Marketing Channel
+
+![ROI by Marketing Channel](ROI_by_Marketing_Channel.png)
+
+### Revenue per Click by Marketing Channel
+
+![Revenue per Click by Marketing Channel](Revenue_per_Click_by_Marketing_Channel.png)
+
+### Marketing Funnel Overview
+
+![Marketing Funnel Overview](Marketing_Funnel_Overview.png)
